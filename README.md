@@ -10,19 +10,19 @@ Link: https://repodb.readthedocs.io/en/latest/
 
 ### Goal
 
-To be the fastest and easy-to-use lightweight ORM.
+To be the fastest and most easy-to-use lightweight ORM.
 
 ### Vision
 
-To provide more flexibility and fast-switching development approach, whether to use the massive or lightweight ORM operations.
+To provide more flexibility and a fast-pace development approach, whether using the lightweight or heavyweight ORM operations.
 
 ### Principles
 
- - We will keep it simple as possible (KISS principle)
- - We will help developers to be more focus on SOLID principle
- - We will make it fast as possible
+ - We will keep it as simple as possible (KISS principle)
+ - We will help developers to be more focused on SOLID principles
+ - We will make it as fast as possible
  - We will make it more flexible
- - We will never ever do try-catch inside the library
+ - We will never ever do a try-catch inside the library
  - We will never make complex implementations (specially for complex Join Queries)
 
 ### What's with RepoDb?
